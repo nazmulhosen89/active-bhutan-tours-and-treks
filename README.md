@@ -1,4 +1,4 @@
-# Active Bhutan Travel & Treks
+# Active Bhutan Tours & Treks
 
 Raw PHP website for a travel agency in Bhutan.
 
