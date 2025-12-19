@@ -1,0 +1,25 @@
+# Config & env
+config.php
+.env
+
+# Uploads & assets
+uploads/
+photo/
+images/
+
+# Archives
+*.zip
+*.rar
+
+# Documents
+*.doc
+*.docx
+*.pdf
+
+# Dependencies
+/vendor/
+node_modules/
+
+# OS
+Thumbs.db
+.DS_Store
